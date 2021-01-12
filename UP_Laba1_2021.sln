@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UP_Laba1_2021", "UP_Laba1_2021\UP_Laba1_2021.csproj", "{36E46F15-EC12-4EF1-996C-D88E63E9D4AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "Govno\MyLib.csproj", "{D2277242-561C-4829-8BE9-7D8EBCCCECBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36E46F15-EC12-4EF1-996C-D88E63E9D4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36E46F15-EC12-4EF1-996C-D88E63E9D4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36E46F15-EC12-4EF1-996C-D88E63E9D4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2277242-561C-4829-8BE9-7D8EBCCCECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2277242-561C-4829-8BE9-7D8EBCCCECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2277242-561C-4829-8BE9-7D8EBCCCECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2277242-561C-4829-8BE9-7D8EBCCCECBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
